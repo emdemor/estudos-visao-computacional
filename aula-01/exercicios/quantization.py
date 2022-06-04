@@ -3,7 +3,7 @@ import numpy as np
 import sys
 
 
-def gray_quantization(data: np.array, b: int):
+def gray_quantization(data: np.array, b: int) -> np.array:
     """Quantiza uma imagem digital em escala de cinza
     para um número de bits especificado de acordo com
     o parâmetro b.
