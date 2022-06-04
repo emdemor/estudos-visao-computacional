@@ -1,0 +1,16 @@
+﻿Lista de Exercícios
+
+1. O processo representa a amostragem de uma imagem em uma imagem digital de 7x6 pixels seguido de uma quantização.
+
+2. Uma imagem digital é uma função bidimensional discretizada que é proporcional ao brilho da imagem em cada ponto (x,y) 
+
+3. São quatro os principais fatores que alavancaram as pesquisas em visão computacional
+	1. A proliferação de tecnologias móveis com câmeras embutidas
+	2. Democratização da acessibilidade ao poder computacional
+	3. Disponibilização e multiplicação das opções de hardwares para visão 		  	computacional e disponibilização de suas análises
+	4. Novos algoritmos otimizados para um melhor aproveitamento das capacidades dos softwares e hardwares
+
+4. Hoje os maiores desafios são a inexistência de um protocolo padrão para aquisição de dados e o fato de que os dados disponíveis podem não ser suficientes. Além disso, os Modelos construídos podem não garantir assertividade aceitável. Por último, vale salientar que não é tão simples de se medir e provar o valor comercial de soluções em visão computacional.
+
+5. (Desafio) O código da função está disponível no repositório:
+https://github.com/emdemor/estudos-visao-computacional/tree/main/aula-01/exercicios
